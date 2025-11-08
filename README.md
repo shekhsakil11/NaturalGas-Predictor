@@ -51,7 +51,7 @@ Our polynomial regression model achieves **89% accuracy (R² score)** in predict
 
 ## Project Workflow
 
-![Project Workflow](assets/workflow.png)
+![Project Workflow](https://github.com/shekhsakil11/NaturalGas-Predictor/blob/8a3062fea0c5818b27a38367927345ca5905bbbf/NaturalGas_Analysis.ipynb)
 
 ## Installation & Quick Start
 
