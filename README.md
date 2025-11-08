@@ -8,7 +8,7 @@
 
 ## Project Preview
 
-![Natural Gas Price Prediction]([Assets/Screenshot 2025-11-07 162256.png]
+![Natural Gas Price Prediction][(https://github.com/shekhsakil11/NaturalGas-Predictor/blob/86881b6d3a23aab8b67bcc7ae8a68d8f96eb685d/Assets/Screenshot%202025-11-07%20162256.png)](https://github.com/shekhsakil11/NaturalGas-Predictor/blob/86881b6d3a23aab8b67bcc7ae8a68d8f96eb685d/Assets/Screenshot%202025-11-07%20162327.png)
 
 ## Project Overview
 
