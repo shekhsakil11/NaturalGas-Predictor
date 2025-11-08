@@ -8,7 +8,7 @@
 
 ## Project Preview
 
-![Natural Gas Price Prediction](https://github.com/shekhsakil11/NaturalGas-Predictor/blob/86881b6d3a23aab8b67bcc7ae8a68d8f96eb685d/Assets/Screenshot%202025-11-07%20162327.png)
+![Natural Gas Price Prediction](https://github.com/shekhsakil11/NaturalGas-Predictor/blob/ab074e7ceda9964155cd4e1608dbdaff672e0fcb/Assets/Screenshot%202025-11-07%20162256.png)
 
 ## Project Overview
 
@@ -45,7 +45,7 @@ Commodity storage contracts require accurate price forecasting to optimize buyin
 
 ## Model Performance
 
-![Model Performance Comparison](assets/model-performance.png)
+![Model Performance Comparison](https://github.com/shekhsakil11/NaturalGas-Predictor/blob/86881b6d3a23aab8b67bcc7ae8a68d8f96eb685d/Assets/Screenshot%202025-11-07%20162327.png)
 
 Our polynomial regression model achieves **89% accuracy (R² score)** in predicting natural gas prices, significantly outperforming baseline models.
 
