@@ -59,7 +59,7 @@ git clone https://github.com/shekhsakil11/NaturalGas-Predictor.git
 cd NaturalGas-Predictor
 
 # 2. Install dependencies
-pip install -r requirements.txt
+pip install -r requirements.txt.txt
 
 # 3. Run the predictor
 python gas_price_predictor.py
